@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+form {
+    border: 1px solid black;
+    width: 220px;
+    height: 230px;
+    padding: 10px;
+}
+label {
+    margin: 5px;
+    font-weight: bold;
+}
+.login {
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    padding-left: 5px;
+}
+
+.password {
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    padding-left: 5px;
+}
+
+.button {
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    background-color: maroon;
+    border: 0px;
+    color: white;
+}
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}
+
+.olho {
+    cursor: pointer;
+    padding-top: 11px;
+    left: 185px;
+    position: absolute;
+    width: 20px;
+  }
